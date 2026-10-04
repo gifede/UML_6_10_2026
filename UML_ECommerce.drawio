@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Pagina-1" id="gYyWEt1zivmhRFHd1gqB">
+    <mxGraphModel dx="2241" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6uWpwzI1DSx8YfQDbfYQ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;Una libreria con più punti vendita offre ai clienti registrati un servizio di e-commerce di una selezione di libri, CD, DVD&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Ogni cliente ha una somma di denaro versata di persona alla libreria, sopra la quale non si possono compiere acquisti&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Singolo acquisto: uno o più prodotti del catalogo con 1..n copie per ciascuno&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Stato dell&#39;ordine consultabile online: datetime di ricezione ordine, inizio spedizione e consegna finale&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Ogni acquisto è dotato del nome dell&#39;autore, del titolo, del nome dell&#39;editore, di un&#39;immagine e alcune informazioni (descrizione)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="710" x="-820" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
